@@ -5,8 +5,8 @@ This project involves creating an automated script to extract, transform, and lo
 
 # Objectives
 - Extract: Retrieve the list of all countries and their GDPs in billion USD from the IMF webpage.
-Transform: Process the data to round the GDP values to two decimal places.
-Load: Save the processed data to a JSON file and a SQLite database table.
-Query: Demonstrate the successful execution of the ETL process by querying the database for entries with a GDP greater than 100 billion USD.
-Log: Record the entire process in a log file.
+- Transform: Process the data to round the GDP values to two decimal places.
+- Load: Save the processed data to a JSON file and a SQLite database table.
+- Query: Demonstrate the successful execution of the ETL process by querying the database for entries with a GDP greater than 100 billion USD.
+- Log: Record the entire process in a log file.
 
