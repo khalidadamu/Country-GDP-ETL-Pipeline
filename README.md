@@ -1,4 +1,5 @@
-#ETL Project: Extracting GDP Data from IMF
+###ETL Project: Extracting GDP Data from IMF
+
 
 This project involves creating an automated script to extract, transform, and load (ETL) GDP data of all countries as logged by the International Monetary Fund (IMF). The script will be used by an international firm looking to expand its business across different countries. The data will be updated twice a year based on IMF's releases.
 
