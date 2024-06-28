@@ -1,0 +1,770 @@
+[
+    {
+        "Country": "\u2014",
+        "GDP_USD_billion": 105568776.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 26854599.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 19373586.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 4409738.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 4308854.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 3736882.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 3158938.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 2923489.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 2169745.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 2089672.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 2081235.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 2062649.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 1721909.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 1707548.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 1663164.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 1492432.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 1391778.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 1080880.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 1061902.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 1029303.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 869601.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 790728.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 748887.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 641102.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 624248.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 599052.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 594095.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 574231.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 554105.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 539223.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 515548.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 515199.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 506601.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 498978.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 449094.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 447026.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 440901.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 420516.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 405626.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 399015.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 382854.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 378110.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 367970.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 358557.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 348902.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 334689.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 330483.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 301670.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 268235.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 267893.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 267721.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 251969.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 245695.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 239300.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 219570.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 206007.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 188505.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 164713.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 156083.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 148712.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 138781.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 127533.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 121291.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 121289.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 120838.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 118130.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 117877.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 104902.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 102309.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 100635.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 96628.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 92332.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 86971.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 85421.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 82649.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 78881.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 78346.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 77777.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 77313.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 77257.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 77047.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 73961.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 73543.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 70030.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 69474.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 68108.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 66622.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 63988.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 52061.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 49815.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 49792.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 48625.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 47398.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 46705.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 46297.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 46097.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 44870.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 42820.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 42097.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 41551.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 35841.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 33752.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 32860.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 31362.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 31221.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 30864.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 30628.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 29931.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 29272.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 28625.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 28488.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 28223.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 27947.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 26580.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 23725.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 23330.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 21076.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 20776.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 20330.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 20177.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 19909.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 19206.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 19572.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 19529.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 19405.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 19236.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 17287.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 17254.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 16908.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 16617.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 16309.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 15988.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 15969.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 15829.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 15278.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 15099.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 14570.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 14114.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 14091.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 13486.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 13149.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 13031.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 12796.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 12309.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 11962.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 11277.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 10966.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 9990.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 9001.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 8738.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 7027.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 7012.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 7004.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 6117.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 5385.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 4824.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 4375.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 3916.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 3669.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 3633.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 3520.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 3470.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 3234.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 3162.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 2736.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 2683.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 2666.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 2584.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 2468.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 2277.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 2262.0
+    },
+    {
+        "Country": "Asia",
+        "GDP_USD_billion": 1988.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 1950.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 1887.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 1864.0
+    },
+    {
+        "Country": "Europe",
+        "GDP_USD_billion": 1807.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 1701.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 1348.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 1274.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 1064.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 1052.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 1039.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 898.0
+    },
+    {
+        "Country": "Americas",
+        "GDP_USD_billion": 681.0
+    },
+    {
+        "Country": "Africa",
+        "GDP_USD_billion": 625.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 541.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 456.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 291.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 262.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 248.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 151.0
+    },
+    {
+        "Country": "Oceania",
+        "GDP_USD_billion": 65.0
+    }
+]
